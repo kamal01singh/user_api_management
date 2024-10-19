@@ -1,5 +1,3 @@
-# app.py
-
 # Import Flask and jsonify to return JSON responses
 from flask import Flask, jsonify, request
 
